@@ -10,6 +10,13 @@
 
 ## Web
 
-* [web](web/web.md)
-  * [html](web/web/html.md)
+* [Web](web/web.md)
+  * [HTML](web/web/html.md)
+  * [CSS](web/web/css.md)
+  * [JavaScript](web/web/javascript.md)
+* [Linux](web/linux.md)
+* [Django](web/django.md)
+* [Flask](web/flask.md)
+
+## Spider
 
