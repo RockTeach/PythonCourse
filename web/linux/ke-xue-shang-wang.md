@@ -80,9 +80,10 @@
 1. 在Android手机上可以使用影梭进行连接
 2. 在mac，linux，windows上可以使用shadowsocks客户端，都是开源的
 
-* windows版本[https://github.com/shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
-* linux，mac版本[https://github.com/shadowsocks/shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5)
-* android版本[https://github.com/shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
+3. windows版本[https://github.com/shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
+
+4. linux，mac版本[https://github.com/shadowsocks/shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5)
+5. android版本[https://github.com/shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
 
 
 
