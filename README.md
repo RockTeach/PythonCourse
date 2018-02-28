@@ -1,31 +1,31 @@
-# PythonCourse
+# Python
 
----
+## Course
 
-Basic
+* [Introduction](README.md)
 
-1. [Basic](/basic/basic.md)
+## Basic
 
-Web
+* [Basic](basic/basic.md)
 
-1. [Web](/web/web.md)
-2. [Linux](/web/linux.md)
-3. [Django](/web/django.md)
-4. [Flask](/web/flask.md)
+## Web
 
-Spider
+* [Web](web/web.md)
+  * [HTML](web/web/html.md)
+  * [CSS](web/web/css.md)
+  * [JavaScript](web/web/javascript.md)
+* [Linux](web/linux.md)
+* [Django](web/django.md)
+* [Flask](web/flask.md)
+* [Tornado](web/tornado.md)
 
-1. urllib
-2. s
+## Spider
 
-AI && ML
+## DA&AI
 
-1. 
-2. mmm
+## Welfare
 
-薅羊毛
-
-1. [科学上网](/web/linux/ke-xue-shang-wang.md)
+* [科学上网](welfare/ke-xue-shang-wang.md)
 
 
 
