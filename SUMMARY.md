@@ -25,5 +25,5 @@
 
 ## Welfare
 
-* [科学上网](web/linux/ke-xue-shang-wang.md)
+* [科学上网](welfare/ke-xue-shang-wang.md)
 
