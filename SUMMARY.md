@@ -1,4 +1,4 @@
-# Python
+# Summary
 
 ## Course
 
@@ -23,9 +23,12 @@
 
 ## DA&AI
 
+* [DA](daandai/da.md)
+  * [IPython](daandai/da/ipython.md)
+  * [Numpy](daandai/da/numpy.md)
+  * [pandas](daandai/da/pandas.md)
+
 ## Welfare
 
 * [科学上网](welfare/ke-xue-shang-wang.md)
-
-
 
