@@ -27,6 +27,7 @@
   * [IPython](daandai/da/ipython.md)
   * [Numpy](daandai/da/numpy.md)
   * [pandas](daandai/da/pandas.md)
+* [AI](daandai/ai.md)
 
 ## Welfare
 
