@@ -35,7 +35,7 @@
   * [lxml](spider/request/urllib/lxml.md)
   * [BeautifulSoup](spider/request/urllib/beautifulsoup.md)
 * [SpiderFramework](spider/scrapy.md)
-  * Scrapy
+  * [Scrapy](spider/scrapy/scrapy.md)
 
 ## DA&AI
 
