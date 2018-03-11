@@ -17,6 +17,7 @@
   * [JavaScript](web/web/javascript.md)
 * [Linux](web/linux.md)
 * [Django](web/django.md)
+  * [Django REST framework](web/django/django-rest-framework.md)
 * [Flask](web/flask.md)
   * [Flask-RESTful](web/flask/flask-restful.md)
 * [Tornado](web/tornado.md)
