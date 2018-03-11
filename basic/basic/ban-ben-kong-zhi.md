@@ -62,7 +62,18 @@ git clone URL
 * 用PyCharm打开项目并配置Git信息，Git忽略
 
 * 图形化更新代码
+
 * 图形化提交代码
+
+
+
+#### 重要概念
+
+* 工作区
+* 暂存区
+* 分支
+
+
 
 #### Git指令
 
@@ -79,10 +90,28 @@ git clone URL
   * git rm -f FileName
 * git mv
 * git branch
+  * git branch BranchName
+  * git branch -d BranchName
 * git checkout
+  * git checkout BranchName
+  * git checkout -b BranchName
+  * git checkout FileName
 * git merge
 * git tag
-  * git tag -a "TAG name"  version\_code
+  * git tag "TAG\_name"
+* * git tag -a "TAG\_name"  version\_code
+  * git tag -d TAG\_name
+* git show
+  * git show TagName
+* git stash
+  * git stash drop
+  * git stash pop
+  * git stash apply
+* git remote
+* git rebase
+  * git rebase BranchName
+  * git rebase --continue
+  * git rebase --abort
 
 
 
