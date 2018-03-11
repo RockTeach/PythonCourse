@@ -18,6 +18,7 @@
 * [Linux](web/linux.md)
 * [Django](web/django.md)
 * [Flask](web/flask.md)
+  * [Flask-RESTful](web/flask/flask-restful.md)
 * [Tornado](web/tornado.md)
 
 ## Spider
