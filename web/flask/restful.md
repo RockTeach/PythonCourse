@@ -86,7 +86,7 @@ http://www.rock.com/api/
 http://api.rock.com/v1/
 ```
 
-也有做法是将版本号放在HTTP的头信息中，但不如房子URL方便和直观。GITHUB是这么搞的。
+也有做法是将版本号放在HTTP的头信息中，但不如放在URL中方便和直观。GITHUB是这么搞的。
 
 ###### 路径（Endpoint）
 
