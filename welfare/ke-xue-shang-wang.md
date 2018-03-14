@@ -32,7 +32,7 @@
 3. apt update，更新软件源
 4. apt install python-pip，安装python包管理工具
 5. pip install shadowsocks，安装科学上网软件
-6. 安装锐速(锐速不支持Openvz！)
+6. 安装锐速(锐速不支持Openvz！)TCP加速
     - `` wget -N --no-check-certificate https://github.com/91yun/serverspeeder/raw/master/serverspeeder.sh && bash serverspeeder.sh`` 
 
 #### 第五步，配置软件
