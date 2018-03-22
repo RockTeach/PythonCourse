@@ -32,6 +32,8 @@
 3. apt update，更新软件源
 4. apt install python-pip，安装python包管理工具
 5. pip install shadowsocks，安装科学上网软件
+6. 安装锐速(锐速不支持Openvz！)TCP加速
+    - `` wget -N --no-check-certificate https://github.com/91yun/serverspeeder/raw/master/serverspeeder.sh && bash serverspeeder.sh`` 
 
 #### 第五步，配置软件
 
@@ -87,3 +89,6 @@
 
 
 
+#### 你可能需要：
+* 如果你不知道你的机子到底是不是Openvz，请食用[《教程：一键检测VPS是Openvz还是KVM还是Xen》](http://www.91yun.org/archives/836)
+* 如果你的内核不对，是Centos的话请食用[《教程：CentOS更换内核，提供锐速可用的内核下载》](http://www.91yun.org/archives/795)。debian和ubuntu我不熟，暂时还没一键包，请自行百度google。。
