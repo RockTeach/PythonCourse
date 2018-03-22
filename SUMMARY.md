@@ -27,7 +27,6 @@
 
 ## Spider
 
-* [CrawlerSystem](spider/pa-chong-ti-xi.md)
 * [SpiderBasic](spider/spider.md)
   * [urllib](spider/urllib.md)
   * [request](spider/request.md)
