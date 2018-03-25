@@ -2,15 +2,13 @@
 
 [https://flask-restful.readthedocs.io/en/latest/](https://flask-restful.readthedocs.io/en/latest/ "官网地址")
 
-
-
 #### 基本使用
 
 * 安装
 
 ```
 # pip 安装
-pip install flask
+pip install flask-restful
 
 # 源码安装
 git clone https://github.com/flask-restful/flask-restful.git
@@ -33,7 +31,7 @@ api = API(app)
 # ② 创建，之后初始化
 api = API()
 api.init_app(app)
- 
+
 # 注册路由 
 api.add_resource(HelloRESTFul,"/")
 ```
