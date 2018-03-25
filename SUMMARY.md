@@ -28,6 +28,9 @@
 * [Flask](web/flask.md)
   * [Flask-Introduction](web/flask/introduction.md)
   * [Flask-RESTful](web/flask/flask-restful.md)
+  * [FlaskModel](web/flask/flaskmodel.md)
+  * [FlaskTemplates](web/flask/flasktemplates.md)
+  * [FlaskViews](web/flask/flaskview.md)
 * [Tornado](web/tornado.md)
 
 ## Spider
